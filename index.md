@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the BaseballE2K website!
 
 You can use the [editor on GitHub](https://github.com/BaseballE2K/baseballe2kweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
